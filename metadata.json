@@ -1,0 +1,6 @@
+{
+  "name": "Ramana Xerox & Digital Print Services",
+  "description": "Professional high-speed photocopying, color digital printing, document binding, and online print ordering for Ramana Xerox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
